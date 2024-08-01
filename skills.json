@@ -1,4 +1,12 @@
-[
+[   
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+        "name": "AdobeXD",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-xd.png"
+    },
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
@@ -38,9 +46,5 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "Figma",
-        "icon": "https://img.icons8.com/color/48/000000/figma.png"
-    }   
+    } 
 ]
